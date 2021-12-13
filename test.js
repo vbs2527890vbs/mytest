@@ -1,3 +1,2 @@
-console.log(1)
-console.log('vb')
-
+console.log(vb)
+const b = 11;
