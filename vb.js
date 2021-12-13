@@ -1,1 +1,1 @@
-console.log(vb)
+console.log(vb-1)
