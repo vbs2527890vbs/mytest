@@ -1,2 +1,1 @@
-console.log(client)
-
+console.log(server)

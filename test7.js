@@ -1,2 +1,3 @@
-console.log(7)	
-
+const a = 1;
+const b = 2;
+const c = 3;
