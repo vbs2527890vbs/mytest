@@ -1,2 +1,1 @@
-console.log(vb)
-const b = 11;
+console.log(server)
