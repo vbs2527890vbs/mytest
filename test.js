@@ -1,2 +1,2 @@
-console.log(vultr-1)
+console.log(vultr-2)
 
