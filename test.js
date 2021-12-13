@@ -1,2 +1,2 @@
-console.log(client)
+console.log(vultr)
 
