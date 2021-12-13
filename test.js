@@ -1,2 +1,2 @@
-console.log(vultr-1)
+const a = 1;
 
